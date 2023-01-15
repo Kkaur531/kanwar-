@@ -1,4 +1,4 @@
-# kanwar
+
 <h1 align="center">Hi 👋, I'm Kanwar Preet Kaur</h1>
 <h3 align="center">A passionate student who is figuring her way into the field of software development.</h3>
 
